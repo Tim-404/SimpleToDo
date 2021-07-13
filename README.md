@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-The XML files for the layout deviate from as demonstrated in the video because the layout was not appearing the same. Mainly, the match_parent attribute for the layout dimensions ignored any other views on the screen
+The XML files for the layout deviate from as demonstrated in the video because the layout was not appearing the same. Mainly, the match_parent attribute for the layout dimensions ignored any other views on the screen.
 
 ## License
 
